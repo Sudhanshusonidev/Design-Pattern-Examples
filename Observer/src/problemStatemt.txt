@@ -1,0 +1,7 @@
+Problem Statement: News Subscription System
+Scenario:
+A News Agency provides news updates on different topics (Politics, Sports, Technology, etc.).
+Users (subscribers) should be able to subscribe or unsubscribe to specific news categories.
+Whenever a new update is published in a category, all subscribers of that category should get notified automatically.
+
+This problem can be efficiently solved using the Observer Design Pattern.

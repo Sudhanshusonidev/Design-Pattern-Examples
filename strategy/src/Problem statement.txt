@@ -1,0 +1,5 @@
+Problem Statement: Payment Processing System
+Scenario:
+A shopping application needs to process payments using different payment methods such as Credit Card, PayPal, and UPI.
+The payment method should be chosen dynamically at runtime based on the user’s selection.
+The system should be scalable, allowing the addition of new payment methods without modifying existing code.
